@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 2500 2500"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="icone-cora-rosa-1.svg"
+   width="2500"
+   height="2500"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="0.20433562"
+     inkscape:cx="2412.6974"
+     inkscape:cy="1389.8703"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#fe3e6d;fill-rule:evenodd;}</style>
+  </defs>
+  <g
+     id="Camada_2"
+     data-name="Camada 2">
+    <g
+       id="Camada_1-2"
+       data-name="Camada 1">
+      <g
+         id="Camada_2-2"
+         data-name="Camada 2">
+        <g
+           id="Camada_1-2-2"
+           data-name="Camada 1-2">
+          <path
+             class="cls-1"
+             d="m 1041.1359,13.366636 a 958.04441,959.66723 0 0 1 136.2553,-13.00882383 77.06935,77.199897 0 0 1 54.2891,19.19334483 71.001736,71.122004 0 0 1 22.3544,52.248548 V 384.22469 a 71.853331,71.975042 0 0 1 -65.9987,71.44191 794.32526,795.67076 0 1 0 833.4987,987.391 740.88768,742.14266 0 0 0 21.2898,-126.8894 71.853331,71.975042 0 0 1 71.3211,-66.1103 h 313.9193 a 72.279129,72.401561 0 0 1 71.3211,72.5081 v 4.2653 A 1250.3543,1252.4723 0 1 1 1041.0294,13.153375 Z M 2098.1782,2.7036654 A 400.24967,400.92765 0 1 1 1697.9287,403.63131 v 0 A 400.99481,401.67404 0 0 1 2098.0717,2.7036654 Z"
+             id="path6"
+             style="stroke-width:10.6539" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

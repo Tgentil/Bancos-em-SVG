@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2500"
+   height="2500"
+   viewBox="0 0 378.76234 378.806"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="bradesco.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="0.15330075"
+     inkscape:cx="1819.952"
+     inkscape:cy="1526.4113"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     id="g8">
+    <path
+       d="M -0.01192814,0.20470408 H 378.71955 V 378.91044 H 222.07754 V 222.01926 H 187.74268 V 378.91044 H 169.50303 V 271.79429 H 152.3387 V 378.91044 H -0.01192814 Z M 12.859775,132.2121 C 32.883799,123.19937 52.910298,114.18164 72.942984,105.16143 153.36329,-7.8834596 257.83543,34.9149 295.03245,88.931522 208.48194,33.029614 144.46371,61.524472 112.64084,99.75229 355.83831,74.315259 416.63552,223.63414 285.37558,278.28376 401.60203,184.14781 253.90041,107.32458 99.7679,114.89813 62.741645,183.78272 74.895642,234.63808 109.42105,280.44692 72.194341,251.70784 47.505222,209.70322 67.578743,120.30851 49.337849,124.2797 31.096956,128.2459 12.859775,132.2121 Z"
+       fill="#cc2229"
+       id="path2"
+       style="stroke-width:1.24174" />
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="2500"
+   viewBox="0 0.4 238.2 240.71926"
+   width="2500"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="banco-santander-logo.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="0.17338258"
+     inkscape:cx="-40.373144"
+     inkscape:cy="1101.6101"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="m 171.7365,111.72247 c -0.54798,-8.66276 -2.73986,-17.325519 -7.12365,-24.833248 L 127.35069,18.164641 c -2.73985,-5.197656 -4.93175,-10.9728303 -6.0277,-16.748006 l -1.64392,2.8875875 c -9.31553,16.7480085 -9.31553,38.1161545 0,54.8641615 l 30.1385,54.864156 c 9.31555,16.748 9.31555,38.11616 0,54.86416 l -1.6439,2.88758 c -1.09594,-5.77517 -3.28784,-11.55035 -6.02771,-16.74801 L 114.74732,104.79226 97.212186,72.451285 C 94.472321,67.253628 92.280428,61.478454 91.184483,55.703279 l -1.643919,2.887588 c -9.315541,16.748006 -9.315541,37.538636 0,54.864173 l 30.138506,54.86414 c 9.31554,16.748 9.31554,38.11615 0,54.86416 l -1.64391,2.88759 c -1.09594,-5.77518 -3.28784,-11.55036 -6.02771,-16.74801 L 74.197319,140.59833 c -4.931754,-9.24027 -7.123647,-19.63557 -7.123647,-30.03089 -40.00203,10.97283 -67.94865095,34.65103 -67.94865095,61.79435 0,38.11616 53.70135195,68.72459 120.00607895,68.72459 66.30473,0 120.00609,-30.60843 120.00609,-68.72459 0.54796,-25.98828 -26.85068,-49.66649 -67.40069,-60.63932 z"
+     fill="#ea1d25"
+     id="path2"
+     sodipodi:nodetypes="cccccccccccccccccccccsscc"
+     style="stroke-width:5.62551" />
+</svg>

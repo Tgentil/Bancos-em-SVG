@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2500"
+   height="2500"
+   viewBox="0 0 192.756 192.756"
+   version="1.1"
+   id="svg7429"
+   sodipodi:docname="caixa-economica-federal-1.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7433" />
+  <sodipodi:namedview
+     id="namedview7431"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="0.15330075"
+     inkscape:cx="293.54064"
+     inkscape:cy="1480.7494"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7429" />
+  <g
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     id="g7427"
+     transform="matrix(4.4335908,0,0,4.4335908,-448.19571,-326.07858)">
+    <path
+       d="m 114.725,97.656 h 14.636 l 10.03,16.612 h -14.639 z"
+       fill="#0d6fab"
+       id="path7421"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       fill="#db8135"
+       d="m 116.246,95.104 h 15.129 l 13.139,-16.54 h -15.129 z m -15.129,19.265 h 15.129 l 13.139,-16.744 h -15.129 z"
+       id="path7423" />
+    <path
+       fill="#0d6fab"
+       d="m 106.572,78.362 h 14.121 l 9.674,16.742 h -14.121 z"
+       id="path7425"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>

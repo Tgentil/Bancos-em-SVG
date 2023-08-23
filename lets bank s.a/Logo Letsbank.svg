@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2500"
+   height="2500"
+   viewBox="0 0 2500 2500"
+   fill="none"
+   version="1.1"
+   id="svg31"
+   sodipodi:docname="Logo Letsbank.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview33"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="0.18944775"
+     inkscape:cx="-232.25401"
+     inkscape:cy="1177.1055"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg31">
+    <sodipodi:guide
+       position="32.659054,2605.4421"
+       orientation="0,-1"
+       id="guide1542"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     clip-path="url(#clip0_1321_16732)"
+     id="g24"
+     transform="matrix(120.62388,0,0,120.62388,235.14519,-0.19620721)">
+    <path
+       d="M 12.3586,12.4272 V 16.563 H 4.12598 v 4.1358 H 16.485 v -8.2716 z"
+       fill="#ff7140"
+       id="path18" />
+    <path
+       d="M 12.3793,4.17578 H 8.25293 v 8.27152 h 4.12637 z"
+       fill="#b2f44a"
+       id="path20" />
+    <path
+       d="M 0,0.0380859 V 12.4253 H 4.12635 V 4.17384 H 8.2527 V 0.0380859 Z"
+       fill="#ff85e8"
+       id="path22" />
+  </g>
+  <defs
+     id="defs29">
+    <clipPath
+       id="clip0_1321_16732">
+      <rect
+         width="143"
+         height="21"
+         fill="#ffffff"
+         id="rect26"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+</svg>
