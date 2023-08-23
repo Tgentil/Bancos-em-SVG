@@ -1,5 +1,7 @@
 # Repositório de Logos de Bancos em SVG
 
+[![GitHub](https://img.shields.io/badge/Visit-My%20Profile-0891B2?style=flat-square&logo=github)](https://github.com/Tgentil)
+
 Olá! Este repositório foi criado para reunir logos de bancos em formato SVG com dimensões de 2500px x 2500px. É uma coleção abrangente de logos que visa facilitar o acesso a essas imagens em alta resolução e qualidade.
 
 ## Lista de Bancos Disponíveis
