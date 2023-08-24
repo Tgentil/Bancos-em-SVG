@@ -16,48 +16,48 @@ Aqui está a lista de bancos cujos logos estão presentes neste repositório:
 6. Banco C6 S.A
 7. Banco da Amazônia S.A
 8. Banco Daycoval
-9. Banco do Estado do Espirito Santo
-10. Banco do Estado do Para
-11. Banco do Estado do Sergipe
-12. Banco do Nordeste do Brasil S.A
-13. Banco Industrial do Brasil S.A
-14. Banco Mercantil do Brasil
-15. Banco Original S.A
-16. Banco Pine
-17. Banco Rendimento
-18. Banco Safra S.A
-19. Banco Sofisa
-20. Banco Topazio
-21. Banco Triângulo - Tribanco
-22. Bank of America
-23. Banrisul
-24. BB (Banco do Brasil)
-25. Bradesco
-26. BRB - Banco de Brasília
-27. Caixa Econômica Federal
-28. Capitual
-29. Conta Simples Soluções em Pagamentos
-30. Cora
-31. Credisis
-32. Cresol
-33. Efí - Gerencianet
-34. Grafeno
-35. Inter
-36. Itaú
-37. Lets Bank S.A
-38. Mercado Pago
-39. Nu Pagamentos S.A (Nubank)
-40. Omie.cash
-41. Pag Seguro Internet S.A
-42. Quality Digital Bank
-43. Santander
+9. Banco do Brasil
+10. Banco do Estado do Espirito Santo
+11. Banco do Estado do Para
+12. Banco do Estado do Sergipe
+13. Banco do Nordeste do Brasil S.A
+14. Banco Industrial do Brasil S.A
+15. Banco Inter S.A
+16. Banco Mercantil do Brasil
+17. Banco Original S.A
+18. Banco Pine
+19. Banco Rendimento
+20. Banco Safra S.A
+21. Banco Santander Brasil S.A
+22. Banco Sofisa
+23. Banco Topazio
+24. Banco Triângulo - Tribanco
+25. Bank of America
+26. Banrisul
+27. Bradesco S.A
+28. BRB - Banco de Brasília
+29. Caixa Econômica Federal
+30. Capitual
+31. Conta Simples Soluções em Pagamentos
+32. Cora Sociedade Credito Direto S.A
+33. Credisis
+34. Cresol
+35. Efí - Gerencianet
+36. Grafeno
+37. Itaú Unibanco S.A
+38. Lets Bank S.A
+39. Mercado Pago
+40. Nu Pagamentos S.A (Nubank)
+41. Omie.cash
+42. PagSeguro Internet S.A
+43. Quality Digital Bank
 44. Sicoob
 45. Sicredi
 46. Stone Pagamentos S.A
 47. Unicred
 48. Uniprime
 49. Bancos Escuros (Subpasta com alguns bancos já mencionados)
-50. (Reservado para futuras adições)
+
 
 ## Contribuição
 
