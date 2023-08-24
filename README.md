@@ -58,7 +58,6 @@ Aqui está a lista de bancos cujos logos estão presentes neste repositório:
 48. Uniprime
 49. Bancos Escuros (Subpasta com alguns bancos já mencionados)
 
-
 ## Contribuição
 
 Se você deseja contribuir com este repositório, sinta-se à vontade para fazer um fork e enviar um pull request. Ao adicionar novos logos, certifique-se de que eles estejam no formato SVG e com as dimensões mencionadas.
