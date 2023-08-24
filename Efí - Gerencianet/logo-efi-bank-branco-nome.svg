@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2500"
+   height="2500"
+   viewBox="0 0 2500 2500"
+   fill="none"
+   version="1.1"
+   id="svg24103"
+   sodipodi:docname="logo-efi-bank-branco-nome.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview24105"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="0.25886824"
+     inkscape:cx="1502.6949"
+     inkscape:cy="1166.6166"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24103" />
+  <g
+     clip-path="url(#clip0_673_19597)"
+     id="g24096"
+     transform="matrix(27.231229,0,0,27.231229,5.1216217,524.28334)">
+    <path
+       d="m 79.8748,15.7002 11.743,-4.2833 V 0 L 77.402,11.0097 c -0.8942,0.6813 -1.4442,1.3586 -1.4442,2.3805 0,1.7658 1.7171,3.1283 3.913,2.31 z m -3.917,39.6225 h 7.5531 V 19.3022 h -7.5531 z m -34.2716,0 h 7.553 V 41.4587 H 68.1238 V 34.6618 H 49.2392 c -0.1384,-5.6419 3.7073,-9.0403 8.9972,-9.0403 2.8844,0 5.3572,1.0179 7.2128,2.31 l 4.8072,-5.3678 c -3.5015,-2.5841 -7.28,-3.9427 -11.8142,-3.9427 -9.9587,0 -16.756,6.5228 -16.756,16.0408 z M 7.69153,33.5068 c 1.09992,-4.8941 5.01297,-7.8853 10.43737,-7.8853 5.4244,0 9.1357,2.9912 9.8202,7.8853 z M 35.7118,36.5646 C 35.7118,28.2721 29.6662,18.621 18.1289,18.621 7.96849,18.621 0,26.1657 0,37.0384 0,47.9111 8.03575,56 18.8886,56 c 6.7301,0 12.1545,-3.1949 15.7272,-7.8814 l -5.2859,-4.2833 c -2.6113,3.3984 -6.1801,5.1642 -10.6471,5.1642 -5.9071,0 -9.89135,-3.3319 -10.98731,-8.6997 H 31.9887 c 2.3344,0 3.731,-1.0884 3.731,-3.7391"
+       fill="#ffffff"
+       id="path24092" />
+  </g>
+  <defs
+     id="defs24101">
+    <clipPath
+       id="clip0_673_19597">
+      <rect
+         width="147.13699"
+         height="56"
+         fill="#ffffff"
+         id="rect24098"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+</svg>
