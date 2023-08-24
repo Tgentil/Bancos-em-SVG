@@ -63,6 +63,13 @@ Aqui está a lista de bancos cujos logos estão presentes neste repositório:
 
 Se você deseja contribuir com este repositório, sinta-se à vontade para fazer um fork e enviar um pull request. Ao adicionar novos logos, certifique-se de que eles estejam no formato SVG e com as dimensões mencionadas.
 
+possivéis trocas:
+
+1. uniprime
+2. unicred
+3. quality digital
+4. mercado mercantil
+
 ## Licença
 
 Estes logos são propriedade de seus respectivos bancos. Este repositório é apenas uma coleção e não possui qualquer afiliação ou endosso dos bancos mencionados. Utilize os logos de acordo com as diretrizes de marca de cada banco e respeite os direitos autorais.
