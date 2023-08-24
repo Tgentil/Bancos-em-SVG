@@ -16,7 +16,7 @@ Aqui está a lista de bancos cujos logos estão presentes neste repositório:
 6. Banco C6 S.A
 7. Banco da Amazônia S.A
 8. Banco Daycoval
-9. Banco do Brasil
+9. Banco do Brasil S.A
 10. Banco do Estado do Espirito Santo
 11. Banco do Estado do Para
 12. Banco do Estado do Sergipe
