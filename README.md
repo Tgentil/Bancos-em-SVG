@@ -65,10 +65,11 @@ Se você deseja contribuir com este repositório, sinta-se à vontade para fazer
 
 possivéis trocas:
 
-1. uniprime
-2. unicred
-3. quality digital
-4. mercado mercantil
+1. Uniprime
+2. Unicred
+3. Quality Digital BANK
+4. Banco Mercantil do Brasil
+...
 
 ## Licença
 
