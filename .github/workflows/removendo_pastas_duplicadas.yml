@@ -1,0 +1,35 @@
+name: Removendo pastas duplicadas
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  limpeza:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Fazer checkout do repositório
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0  # Buscar todo o histórico para podermos inspecioná-lo
+
+    - name: Remover pastas do primeiro commit
+      run: |
+        # Obter lista de arquivos do primeiro commit
+        FILES=$(git show 6c561ea --name-only --pretty="")
+        
+        # Percorrer os arquivos e deletar diretórios
+        for FILE in $FILES; do
+          if [ -d "$FILE" ]; then
+            rm -rf "$FILE"
+            git rm -r "$FILE"
+          fi
+        done
+
+        # Se houver mudanças, commitar e dar push
+        if [[ $(git status -s) ]]; then
+          git commit -am "Removidas pastas do primeiro commit"
+          git push
+        fi
