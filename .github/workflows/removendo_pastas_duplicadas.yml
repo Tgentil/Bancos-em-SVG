@@ -12,13 +12,15 @@ jobs:
     steps:
     - name: Fazer checkout do repositório
       uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.GH_PAT }}
 
     - name: Configurar identidade do Git
       run: |
         git config user.email "thiagosgentil@gmail.com"
         git config user.name "Tgetil"
 
-    - name: Remover pastas específicas
+    - name: Remover pastas co nomes em minusculo
       run: |
         # Lista dos diretórios para remover
         DIRS=("asaas ip s.a" "banco bs2 s.a" "banco btg pacutal" "banco c6 s.a" "banco da amazônia s.a" "banco daycoval"
