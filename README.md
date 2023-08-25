@@ -70,7 +70,7 @@ Se você deseja contribuir com este repositório, sinta-se à vontade para fazer
 
 possivéis trocas:
 
-1. Uniprime
+1. Uniprime ( a atual é uma réplica )
 2. Unicred
 3. Quality Digital BANK
 4. Banco Mercantil do Brasil
