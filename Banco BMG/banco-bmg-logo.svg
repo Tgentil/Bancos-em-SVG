@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 2500 2500"
+   version="1.1"
+   id="svg15"
+   sodipodi:docname="banco-bmg-logo.svg"
+   width="2500"
+   height="2500"
+   style="fill:none"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   inkscape:export-filename="C:\Users\suitedoalex\sites\banco-bmg-logo-0.png"
+   inkscape:export-xdpi="561.73999"
+   inkscape:export-ydpi="561.73999"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1261"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="0.06033237"
+     inkscape:cx="10699.066"
+     inkscape:cy="1864.6706"
+     inkscape:window-x="4791"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg15"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     clip-path="url(#clip0)"
+     id="g8"
+     transform="matrix(48.024903,0,0,48.024903,446.26937,-1076.7814)"
+     inkscape:export-filename="C:\Users\suitedoalex\sites\banco-bmg-logo-4.png"
+     inkscape:export-xdpi="72.662964"
+     inkscape:export-ydpi="72.662964">
+    <path
+       d="m 15.946,41.971 c 0,-1.589 1.455,-2.86 3.037,-2.605 8.48,1.27 14.997,8.642 14.997,17.475 0,13.854 -11.074,16.904 -15.883,17.54 -1.139,0.127 -2.151,-0.763 -2.151,-1.907 z"
+       id="path4"
+       inkscape:connector-curvature="0"
+       style="fill:#462a71" />
+    <path
+       d="m 1.962,57.922 h 7.91 c 3.353,0 6.074,-2.733 6.074,-6.1 V 24.494 c 0,-1.08 -0.886,-1.97 -1.962,-1.97 h -3.67 C 4.62,22.525 0,27.165 0,32.884 v 23.068 c 0,1.08 0.886,1.97 1.962,1.97 z"
+       id="path6"
+       inkscape:connector-curvature="0"
+       style="fill:#ff6300"
+       sodipodi:nodetypes="ssssscsss" />
+  </g>
+  <defs
+     id="defs13">
+    <clipPath
+       id="clip0">
+      <path
+         transform="translate(0,21)"
+         d="M 0,0 H 173 V 72 H 0 Z"
+         id="path10"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+    </clipPath>
+  </defs>
+</svg>
