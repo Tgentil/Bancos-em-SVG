@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2500 2500">
+  <!-- Generator: Adobe Illustrator 29.6.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 207)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#Gradiente_sem_nome);
+        fill-rule: evenodd;
+      }
+
+      .st1 {
+        fill: #171527;
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome" data-name="Gradiente sem nome" x1="1250.01" y1="2093.25" x2="1250.01" y2="410.75" gradientTransform="translate(0 2502) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00ee26"/>
+      <stop offset="1" stop-color="#ffc600"/>
+    </linearGradient>
+  </defs>
+  <path class="st1" d="M1250,2500c690,0,1250-560,1250-1250S1940,0,1250,0,0,560,0,1250s560,1250,1250,1250Z"/>
+  <path class="st0" d="M1250,1895c356.25,0,645-288.75,645-645s-288.75-645-645-645-645,288.75-645,645,288.75,645,645,645ZM2091.26,1250c0,465.01-376.25,841.25-841.25,841.25s-841.25-376.25-841.25-841.25,376.25-841.25,841.25-841.25,841.25,376.25,841.25,841.25Z"/>
+</svg>
