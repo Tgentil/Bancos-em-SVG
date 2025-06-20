@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2500 2500">
+  <!-- Generator: Adobe Illustrator 29.6.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 207)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1 {
+        fill: url(#Gradiente_sem_nome);
+      }
+
+      .st2 {
+        fill: #001f1f;
+        fill-rule: evenodd;
+      }
+
+      .st3 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <line class="st0" x1="0" y1="2302.23" x2="0" y2="438.56"/>
+    </clipPath>
+    <radialGradient id="Gradiente_sem_nome" data-name="Gradiente sem nome" cx="289.19" cy="1751.18" fx="289.19" fy="1751.18" r="42.36" gradientTransform="translate(34999.04 69203.25) rotate(-36.06) scale(42.11 -42.29)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="teal"/>
+      <stop offset="1" stop-color="#00c4c4"/>
+    </radialGradient>
+  </defs>
+  <g class="st3">
+    <g>
+      <path class="st2" d="M683.08,1555.75v-252.48l-353.04-680.06,353.04,932.55Z"/>
+      <path class="st2" d="M1819.15,1553.31v-250.05l354.26-671.53-354.26,921.58Z"/>
+      <path class="st2" d="M1309.55,938.05l-58.43,85.92,338.79,655.69-280.36-741.61Z"/>
+    </g>
+  </g>
+  <path class="st1" d="M0,1572.54l333.18,294.4,349.19,293.71v-955.37l317.01,661.2h501.24l317.01-661.22v955.39l349.19-293.71,333.17-294.4V339.34h-851.49l-398.51,586.32-398.52-586.32H0v1233.2Z"/>
+  <path class="st2" d="M682.39,1557.32v-252.77l-352.63-681.18,352.63,933.94Z"/>
+  <path class="st2" d="M1817.62,1554.91v-250.42l353.99-672.46-353.99,922.89Z"/>
+  <path class="st2" d="M1308.47,938.84l-58.47,86.04,338.41,656.59-279.94-742.63Z"/>
+</svg>
